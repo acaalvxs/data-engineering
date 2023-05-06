@@ -1,4 +1,11 @@
-# Engenharia de Dados
+# Engenharia de Dados: estudos e exercícios
+
+_Cursos e certificações (gratuitos e pagos)_:
+
+- [Applied Data Science with Python (gratuito/com diploma)](https://cognitiveclass.ai/learn/data-science-with-python)
+- [Big Data Foundations (gratuito/com diploma)](https://cognitiveclass.ai/learn/big-data)
+- [AWS Certified Cloud Practitioner (U$ 100/foundational - certificação)](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/?ch=sec&sec=rmg&d=1)
+- [Fundamentos de Engenharia de Dados (gratuito/com diploma)](https://www.datascienceacademy.com.br/course/fundamentos-de-engenharia-de-dados)
 
 <a name="indice"></a>
 ## Índice
@@ -6,7 +13,7 @@
 - [2. O que faz uma pessoa Engenheira de Dados?](#indice002)
 - [3. Banco de dados (Databases)](#indice003)
 - [4. Cloud Computing](#indice004)
-- [x](#indice005)
+- [5. Big Data](#indice005)
 
 <a id="indice001"></a>
 ## 1. O que é Engenharia de Dados?
@@ -77,3 +84,17 @@ Desenvolve, constroi, testa e mantém arquiteturas como bancos de dados e sistem
 - [Cloud Computing Tutorial for Beginners | Cloud Computing Explained](https://www.youtube.com/watch?v=RWgW-CgdIk0)
 
 [Voltar ao topo](#indice)
+
+<a id="indice005"></a>
+## 5. Big Data
+
+É um conjunto de dados maior e mais complexo, especialmente de novas fontes de dados. Esses conjuntos de dados são tão volumosos que o software tradicional de processamento de dados simplesmente não consegue gerenciá-los. No entanto, esses grandes volumes de dados podem ser usados para resolver problemas de negócios que você não conseguiria resolver antes.
+
+_fonte: oracle_
+
+
+
+**Vídeos:**
+
+[Voltar ao topo](#indice)
+
